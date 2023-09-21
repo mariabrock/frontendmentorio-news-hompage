@@ -24,17 +24,17 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-1](./screenshot.jpg)
-![desktop-2](./screenshot.jpg)
-![mobile-1](./screenshot.jpg)
-![mobile-2](./screenshot.jpg)
-![mobile-3](./screenshot.jpg)
-![active-states](./screenshot.jpg)
+![desktop-1](./assets/readme/desktop.png)
+![desktop-2](./assets/readme/desktop2.png)
+![mobile-1](./assets/readme/mobile1.png)
+![mobile-2](./assets/readme/mobile2.png)
+![mobile-3](./assets/readme/mobile3.png)
+![active-states](./assets/readme/active-states.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/mariabrock/frontendmentorio-news-hompage)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://mariabrock.github.io/frontendmentorio-news-hompage/)
 
 ## My process
 
